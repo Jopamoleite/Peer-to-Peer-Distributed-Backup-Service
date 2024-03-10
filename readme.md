@@ -39,7 +39,7 @@ To cleanup the peer directories created, simply run the following script:
 > bash ../scripts/cleanup.sh
 
 
-##Authors
+## Authors
 João Paulo Monteiro Leite -- 201705312@fe.up.pt
 Márcia Isabel Reis Teixeira -- 201706065@fe.up.pt
 Maria Helena Ferreira -- up201704508@fe.up.pt
